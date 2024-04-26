@@ -176,7 +176,7 @@ const Picker: React.FC<Props> = ({
                   justifyContent: "center",
                 }}
               >
-                <Ionicons name="ios-close" size={20} color="#fff" />
+                <Ionicons name="close" size={20} color="#fff" />
               </TouchableOpacity>
             </View>
             <ScrollView showsVerticalScrollIndicator={false}>
